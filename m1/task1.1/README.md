@@ -1,1 +1,4 @@
-This is readme file from local repo
+What I've done:
+
+
+DevOps - is
