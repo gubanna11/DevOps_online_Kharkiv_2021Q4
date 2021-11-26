@@ -1,0 +1,76 @@
+$ git reflog
+242ab4e (HEAD -> styles, origin/styles) HEAD@{0}: checkout: moving from develop to styles
+3ab36df (develop) HEAD@{1}: commit: Add img in inde.html
+4a2cecd HEAD@{2}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{3}: checkout: moving from styles to images
+242ab4e (HEAD -> styles, origin/styles) HEAD@{4}: checkout: moving from develop to styles
+4a2cecd HEAD@{5}: pull --progress origin: Merge made by the 'recursive' strategy.
+1102bf1 HEAD@{6}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{7}: checkout: moving from main to images
+020c8c1 (origin/main, main) HEAD@{8}: checkout: moving from images to main
+0bd2bc8 (origin/images, images) HEAD@{9}: checkout: moving from develop to images
+1102bf1 HEAD@{10}: commit: Update index.html
+29233f3 HEAD@{11}: checkout: moving from styles to develop
+242ab4e (HEAD -> styles, origin/styles) HEAD@{12}: commit: New style.css
+020c8c1 (origin/main, main) HEAD@{13}: checkout: moving from develop to styles
+29233f3 HEAD@{14}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{15}: checkout: moving from develop to images
+29233f3 HEAD@{16}: checkout: moving from styles to develop
+020c8c1 (origin/main, main) HEAD@{17}: checkout: moving from develop to styles
+:...skipping...
+242ab4e (HEAD -> styles, origin/styles) HEAD@{0}: checkout: moving from develop to styles
+3ab36df (develop) HEAD@{1}: commit: Add img in inde.html
+4a2cecd HEAD@{2}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{3}: checkout: moving from styles to images
+242ab4e (HEAD -> styles, origin/styles) HEAD@{4}: checkout: moving from develop to styles
+4a2cecd HEAD@{5}: pull --progress origin: Merge made by the 'recursive' strategy.
+1102bf1 HEAD@{6}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{7}: checkout: moving from main to images
+020c8c1 (origin/main, main) HEAD@{8}: checkout: moving from images to main
+0bd2bc8 (origin/images, images) HEAD@{9}: checkout: moving from develop to images
+1102bf1 HEAD@{10}: commit: Update index.html
+29233f3 HEAD@{11}: checkout: moving from styles to develop
+242ab4e (HEAD -> styles, origin/styles) HEAD@{12}: commit: New style.css
+020c8c1 (origin/main, main) HEAD@{13}: checkout: moving from develop to styles
+29233f3 HEAD@{14}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{15}: checkout: moving from develop to images
+29233f3 HEAD@{16}: checkout: moving from styles to develop
+020c8c1 (origin/main, main) HEAD@{17}: checkout: moving from develop to styles
+29233f3 HEAD@{18}: checkout: moving from images to develop
+0bd2bc8 (origin/images, images) HEAD@{19}: commit: New image img.jpg
+020c8c1 (origin/main, main) HEAD@{20}: checkout: moving from develop to images
+29233f3 HEAD@{21}: checkout: moving from images to develop
+020c8c1 (origin/main, main) HEAD@{22}: checkout: moving from develop to images
+29233f3 HEAD@{23}: commit: index.html in develop branch
+3ceb5be HEAD@{24}: checkout: moving from main to develop
+020c8c1 (origin/main, main) HEAD@{25}: commit: Update README.md
+3ceb5be HEAD@{26}: commit: delete module2
+2ec569a HEAD@{27}: commit: delete module1
+4b89fd4 HEAD@{28}: commit: delete module1
+44e966f HEAD@{29}: commit: m1
+b00588e HEAD@{30}: commit: m1
+25f0423 HEAD@{31}: commit: m1
+3d623bd HEAD@{32}: commit: delete gitattributes
+6da7e55 HEAD@{33}: commit: delete readme
+83bee94 HEAD@{34}: commit: module 2 task2,1 pdf
+759efe3 HEAD@{35}: commit: task1.1 readme.md
+e14b32a HEAD@{36}: commit: module 1 task1.pdf
+7159f4b HEAD@{37}: commit: README.md updated
+b49cbd9 HEAD@{38}: commit (initial): Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
