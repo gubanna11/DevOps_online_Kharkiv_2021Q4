@@ -20,12 +20,12 @@
 2) С помощью какой команды можно определить тип файла (например,
 текстовый или бинарный)? Привести пример.
 
-![](screens/2.1.PNG)
+![image](https://user-images.githubusercontent.com/83699357/145710054-7ba09ae1-11b0-4c42-8128-3e193c332881.png)
  
 Рис.2.1 За допомогою команди file filename можна визначити тип файла
 	Наприклад, у каталозі bin обираємо будь-який файл та перевіряємо його тип file echo. Отримуємо файли типу elf (бінарні)
 	
-![](screens/2.2.PNG)
+![image](https://user-images.githubusercontent.com/83699357/145710059-1a913329-3ad7-481c-aeea-e1f847c3c1d9.png)
  
 Рис.2.2 Текстовий файл – ASCII text
 
@@ -40,7 +40,7 @@
 Абсолютним буде, знаходячись в student, ввести cd /home/student/one
 Обидва варіанта приведуть до папки one.
 
-![](screens/3.1.PNG)
+![image](https://user-images.githubusercontent.com/83699357/145710064-0dd9ce03-534d-4bad-acba-c91accb1af7a.png)
 
 Рис.3 Абсолютним і відносним шляхом досягли папки one
 
